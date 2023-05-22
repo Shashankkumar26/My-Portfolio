@@ -26,7 +26,7 @@ export const ProjectList = [
     {
         name : "Library Management System",
         image : proj3,
-        skills : "C++, OPPS, File Handling",
+        skills : "C++, OOPS, File Handling",
         Link1 :"https://github.com/Shashankkumar26/Library-Management-System",
         Link2 : ""
     }
