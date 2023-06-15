@@ -2,6 +2,7 @@ import proj1 from '../assets/proj1.jpeg';
 import proj4 from '../assets/proj4.jpeg';
 import proj3 from '../assets/proj3.png';
 import movie from '../assets/Movieland.jpg';
+import yt from '../assets/yt.jpeg'
 
 
 export const ProjectList = [
@@ -37,6 +38,13 @@ export const ProjectList = [
         skills : "ReactJs, JavaScript, CSS, HTML",
         Link1 : "https://github.com/Shashankkumar26/Movieland",
         Link2 : "https://shashankkumar26.github.io/Movieland/"
+    },
+    {
+        name: "My-Youtube",
+        image: yt,
+        Skills: "ReactJs, JavaScript, API, CSS, HTML, Axios",
+        Link1:"https://github.com/Shashankkumar26/My-Youtube",
+        Link2:"https://shorturl.at/muFNR",
     }
     
     
